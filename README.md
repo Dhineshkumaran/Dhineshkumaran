@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm DHINESH KUMARAN</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
+<img align="right" alt="Programmer" width="400" src="https://miro.medium.com/v2/resize:fit:875/1*VMmvImch6VU5pc2VktY1uw.gif">
 
 - 🔭 I’m currently working on **-**
 
