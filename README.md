@@ -33,7 +33,7 @@
             <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" /> 
         </a> 
         <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-            <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="javascript" /> 
+            <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" /> 
         </a> 
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
             <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /> 
@@ -42,23 +42,29 @@
             <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3" /> 
         </a>
         <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="javascript" /> 
+            <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" /> 
         </a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
             <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" /> 
         </a> 
         <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
-            <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="javascript" /> 
+            <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" /> 
         </a> 
         <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="javascript" /> 
+            <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="expressjs" /> 
         </a> 
         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="javascript" /> 
+            <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" /> 
         </a> 
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="javascript" /> 
+            <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" /> 
         </a> 
+        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindcss" /> 
+        </a> 
+        <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" /> 
+        </a>
     </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=dhineshkumaran&show_icons=true&locale=en&layout=compact)
