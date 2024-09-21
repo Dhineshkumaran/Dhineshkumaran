@@ -7,20 +7,22 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [-](-)
+- 👨‍💻 All of my projects are available at **https://dhinesh-kumaran-s.netlify.app/**
 
 - 💬 Ask me about **-**
 
 - 📫 How to reach me **dhineshkumaran2004@outlook.com**
 
-- 📄 Know about my experiences [-](-)
+- 📄 Know about my experiences **https://linkedin.com/in/dhinesh-kumaran-s**
 
 - ⚡ Fun fact **One thing I can't live without is Music 🎶**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/imdk2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imdk2004" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/dhinesh-kumaran-s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhinesh-kumaran-s" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dhinesh-kumaran-s/" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="https://stackoverflow.com/users/27397331/imdk2004" target="blank"><img align="center" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white" alt="stackoverflow" /></a>
+<a href="https://leetcode.com/u/22CSR048_Dhinesh/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06" alt="leetcode" /></a>
+<a href="https://www.hackerrank.com/profile/22CSR048_Dhinesh" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-00EA64?style=flat&logo=HackerRank&logoColor=white" alt="hackerrank" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -38,6 +40,8 @@
     <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" /></a>
     <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" /></a>
     <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindcss" /></a>
+    <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="reactjs" /></a>
+    <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" /></a>
     <a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" /></a>
 </p>
 
