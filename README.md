@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm <a href="https://dhinesh-kumaran-s.netlify.app/" target="_blank">Dhinesh kumaran S</a></h1>
+<h1 align="center">
+  Hi there, I'm <a href="https://dhinesh-kumaran-s.netlify.app/" target="_blank" rel="noopener noreferrer">Dhinesh kumaran S</a>
+  <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="35px" />
+</h1>
+
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 <img align="right" alt="Programmer" width="400" src="https://miro.medium.com/v2/resize:fit:875/1*VMmvImch6VU5pc2VktY1uw.gif">
@@ -59,6 +63,7 @@
 
 ## Tools
 <p align="left">
+    <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" /></a>
     <a href="https://www.github.com/" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
     <a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" /></a>
     <a href="https://www.npmjs.com/" target="_blank"><img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm" /></a>
