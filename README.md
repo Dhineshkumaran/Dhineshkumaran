@@ -75,6 +75,6 @@
 </p>
 
 ## Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Dhineshkumaran&show_icons=true&locale=en&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=Dhineshkumaran&theme=light&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dhineshkumaran&theme=light&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Dhineshkumaran&show_icons=true&locale=en&layout=compact)
