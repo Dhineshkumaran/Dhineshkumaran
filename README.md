@@ -74,4 +74,7 @@
     <a href="https://app.docker.com/" target="_blank"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker" /></a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=dhineshkumaran&show_icons=true&locale=en&layout=compact)
+## Stats
+![](https://github-readme-stats.vercel.app/api?username=Dhineshkumaran&theme=light&hide_border=false&include_all_commits=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Dhineshkumaran&theme=light&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Dhineshkumaran&show_icons=true&locale=en&layout=compact)
