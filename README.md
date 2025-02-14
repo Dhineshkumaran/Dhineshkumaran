@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Supabase**
 
-- 👨‍💻 All of my projects are available at **https://dhinesh-kumaran-s.netlify.app/**
+- 👨‍💻 All of my projects are available at **https://dhineshkumaran.me**
 
 - 💬 Ask me about **MERN**
 
